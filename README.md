@@ -11,7 +11,7 @@ Table of Contents
     Text Cleaning
     Feature Engineering
     
-    Train an ML model for Text Classification
-    Evaluate the ML model
-    Conclusion
+   Train an ML model for Text Classification
+   Evaluate the ML model
+   Conclusion
 
