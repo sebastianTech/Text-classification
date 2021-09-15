@@ -7,7 +7,8 @@ Language is symbols, and symbols are not just an invention of logic or classical
 •	Images (Writing)
 The symbol is invariant across different encodings.
 However, brain encoding appears to be a continuous pattern of activation, and the symbols are transmitted via continuous signals of sound and vision. 
-![image](https://user-images.githubusercontent.com/66043834/133355797-3bc27bd3-0fba-47aa-8378-5647748908f6.png)
+![image](https://user-images.githubusercontent.com/66043834/133356017-5ff6ed1d-e632-42c1-9bae-573653999ed0.png)
+
 
 Natural language can be in the form of speech, OCR/Tokenization, etc. In any form, the language represented passes through 4 phases:
 •	Morphological analysis
