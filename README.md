@@ -26,7 +26,7 @@ We want to explore the tweets and see how basic exploring to text data. This art
 ![image](https://user-images.githubusercontent.com/66043834/133355839-db77dd2f-6c1a-4b9f-8643-74066b1acaa3.png)
 
  
-The Colum text contains the tweets. This article will be in series, and this dataset will be our learning dataset. Don’t worry about the rest column as the future article will explain how to handle it.
+The Column text contains the tweets. This article will be in series, and this dataset will be our learning dataset. Don’t worry about the rest column as the future article will explain how to handle it.
 Word Frequency
 In text mining, the frequency of words is the first call point. However, one can use other concepts, but word frequency comes in handy but is not always the best option. Word frequency is mostly used in sentiment analysis. There are different terminologies associated with word frequency which will see in future series of exploring text data. For now, have in mind that such terms exist.
 N-gram: breaking of text into chunks of words, or it could be in letters. U-gram, one word, and Bigram 2 words.
