@@ -5,8 +5,6 @@ Language is symbols, and symbols are not just an invention of logic or classical
 •	Gestures
 •	Sound
 •	Images (Writing)
-
-
 The symbol is invariant across different encodings.
 However, brain encoding appears to be a continuous pattern of activation, and the symbols are transmitted via continuous signals of sound and vision. 
 ![image](https://user-images.githubusercontent.com/66043834/133356017-5ff6ed1d-e632-42c1-9bae-573653999ed0.png)
