@@ -47,8 +47,6 @@ Let’s visualize our data with word cloud before text cleaning and after text c
 ![image](https://user-images.githubusercontent.com/66043834/133355898-93b27d34-08f9-45a7-8465-26cca7f7464f.png)
 
            
-
-
 We have created a word cloud with noise and without noise, and you can see that there is the tendency to lose insight into our text data and what the content of the tweet is, assuming the description of the text was not known. We have "the" and other stopwords.
 The insight showed that the tweet talked more about the late George Floyd funeral with #blacklives matters. 
 When text cleaning is not done, obviously, the machine learning model in which the dataset will be built will give a wrong output, and also bear in mind that some words can be misrepresented. We will learn other concepts of normalizing text data in future series.
