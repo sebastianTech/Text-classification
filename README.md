@@ -23,6 +23,8 @@ You will observe that finding insight on text data (unstructured) available on w
 About the Dataset
 To explore text data, we will be using tweet data from the late George Floyd funeral, and it can be found on Kaggle for this demonstration. The link to the dataset is https://www.kaggle.com/jl18pg052/tweets-for-georgefloydfuneral/tasks?taskId=1132
 
+
+
 Description of the dataset: 
 We want to explore the tweets and see how basic exploring to text data. This article does not cover how to install python, how to run Jupiter notebook or any IDE. I believe you would have known how to do that. In any case, drop a comment if you want a write-up on how to set up your programming environment.  This project is  done on a google Colab; hence you import your data and visualize it, as shown below
 ![image](https://user-images.githubusercontent.com/66043834/133355839-db77dd2f-6c1a-4b9f-8643-74066b1acaa3.png)
