@@ -1,5 +1,4 @@
 Exploring Text Data
-
 Computer devices are geniuses in learning from the spread of facts, figures, or information systematically displayed and filled with numerals. 
 However, humans communicate with words and not with numerals. Natural Language Processing (NLP) is a notion of empowering computers to communicate in human language. NLP is an interdisciplinary field combining Computer science, Artificial intelligence, and linguistics. Skillful use of Languages is what makes part of a human. Hence, the desire for computers to speak our languages has been a desire, leading to NLP.
 Language is symbols, and symbols are not just an invention of logic or classical AI. When a human communicates, it involves symbols, but its communication uses a continuous substrate. Commonly we use
